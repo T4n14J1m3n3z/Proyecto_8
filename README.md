@@ -1,7 +1,9 @@
-# Proyecto_8
-Descripción del proyecto
-La compañía móvil Megaline no está satisfecha al ver que muchos de sus clientes utilizan planes heredados. Quieren desarrollar un modelo que pueda analizar el comportamiento de los clientes y recomendar uno de los nuevos planes de Megaline: Smart o Ultra.
+## Project 8: Customer Plan Recommendation Model for Megaline
 
-Tienes acceso a los datos de comportamiento de los suscriptores que ya se han cambiado a los planes nuevos (del proyecto del sprint de Análisis estadístico de datos). Para esta tarea de clasificación debes crear un modelo que escoja el plan correcto. Como ya hiciste el paso de procesar los datos, puedes lanzarte directo a crear el modelo.
+Description:
+Megaline, a mobile company, is dissatisfied with the continued use of outdated plans by many of its customers. They aim to develop a model that can analyze customer behavior and recommend one of Megaline’s new plans: Smart or Ultra.
 
-Desarrolla un modelo con la mayor exactitud posible. En este proyecto, el umbral de exactitud es 0.75. Usa el dataset para comprobar la exactitud.
+You have access to data from subscribers who have already switched to the new plans (from the Statistical Data Analysis Sprint project). For this classification task, you need to create a model that accurately selects the appropriate plan. 
+
+Objective:
+Develop a model with the highest possible accuracy, aiming for a minimum accuracy threshold of 0.75. Use the provided dataset to validate the model's accuracy.
